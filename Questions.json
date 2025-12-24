@@ -1,0 +1,12 @@
+[
+    {
+        "Question": "what is the capital of India ?",
+        "Options": [
+            "New Delhi",
+            "Punjab",
+            "Haryana",
+            "Rajasthan"
+        ],
+        "Correct": 1
+    }
+]
